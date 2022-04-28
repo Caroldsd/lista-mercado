@@ -1,3 +1,3 @@
 # lista-mercado
 
-Intro  ao Git e GitHub
+Introdução ao Git e ao GitHub.
